@@ -19,6 +19,11 @@ numero_2 = int(input('Ingrese el segundo número:\n'))
 # Compare cual de los dos números es mayor
 # Imprima en pantalla según corresponda
 
+if numero_1 > numero_2:
+    print("El primer numero ", numero_1,"es mayor que el segundo", numero_2)
+else:  
+    print("El segundo numero ", numero_2,"es mayor que el primer numero", numero_1)
+
 # Verifique si el numero_1 positivo, negativo o cero
 # Imprima el resultado en cada caso
 
