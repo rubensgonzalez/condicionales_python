@@ -30,6 +30,8 @@ else:
 # Verifique si el numero_1 es mayor a 0 y menor a 100
 # Imprima en pantalla si se cumple o no la condición
 
+
+
 # Verifique si el numero_1 es menor a 10 o el numero_2
 # es mayor a -2
 # Imprima en pantalla si se cumple o no la condición
