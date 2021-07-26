@@ -27,11 +27,18 @@ else:
 # Verifique si el numero_1 positivo, negativo o cero
 # Imprima el resultado en cada caso
 
+if numero_1
+
 # Verifique si el numero_1 es mayor a 0 y menor a 100
 # Imprima en pantalla si se cumple o no la condición
 
-
+if (numero_1 > 0 and numero_1 < 100):
+    print("El primer numero es mayor a cero y menor a 100") 
 
 # Verifique si el numero_1 es menor a 10 o el numero_2
 # es mayor a -2
 # Imprima en pantalla si se cumple o no la condición
+
+if (numero_1 <10 or numero_2 > -2):
+    print("El primer numero es menor a 10 o el segundo numero es mayor a -2")
+    print("Se cumplio la condicion....")
