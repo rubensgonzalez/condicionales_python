@@ -48,7 +48,7 @@ copia_texto_1 = texto_1  # Copia de la variable texto_1
 # Imprima en pantalla según corresponda
 
 if copia_texto_1 == texto_1:
-  print("La copia de {} es igual a la primer palabra ingresa {}".format(copia_texto_1,texto_1))
+  print("La copia {} es igual a la primer palabra ingresa {}".format(copia_texto_1,texto_1))
  
 
 # Verifique que copia_texto_1 es distinta a texto_2
