@@ -27,7 +27,12 @@ else:
 # Verifique si el numero_1 positivo, negativo o cero
 # Imprima el resultado en cada caso
 
-if numero_1
+if numero_1 > 0:
+    print("El primer numero ingresado es positivo")
+elif numero_1 < 0:
+    print("El primer numero ingresado es negativo")
+else:
+  print("El primer numero ingresado es igual a cero")
 
 # Verifique si el numero_1 es mayor a 0 y menor a 100
 # Imprima en pantalla si se cumple o no la condición
